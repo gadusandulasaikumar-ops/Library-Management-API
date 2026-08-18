@@ -28,7 +28,7 @@ View all members
 Add a new member
 Update an existing member
 Delete a member
-API Endpoints
+ API Endpoints
 Books
 Method	Endpoint	Description
 GET	/library/books	Get all books
